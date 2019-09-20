@@ -27,18 +27,18 @@
   ],
   "dependencies": {
     "chalk": "^2.1.0",
-    "diff": "^3.0.0",
-    "postcss": "^6.0.11"
+    "diff": "^4.0.0",
+    "postcss": "^7.0.0"
   },
   "devDependencies": {
-    "cssnano": "^3.3.1",
+    "cssnano": "^4.1.0",
     "grunt": "^1.0.1",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-nodeunit": "^1.0.0",
-    "load-grunt-tasks": "^3.1.0",
-    "postcss-scss": "^1.0.2",
-    "time-grunt": "^1.1.0"
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "load-grunt-tasks": "^5.1.0",
+    "postcss-scss": "^2.0.0",
+    "time-grunt": "^2.0.0"
   },
   "peerDependencies": {
     "grunt": ">=0.4.5"
